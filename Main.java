@@ -12,7 +12,10 @@ public class Main
         // prompt and take input for name
 
 
-        // greet user by name and print instructions
+        // call method that greets user by name and print instructions
+
+
+        // take input for four digit number
 
 
         // call method and print sum of digits
